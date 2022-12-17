@@ -192,3 +192,7 @@ header.p-section {
   width: 100%;
   object-fit: cover;
 }
+
+.green {
+  color: rgba(17, 105, 32);
+}
